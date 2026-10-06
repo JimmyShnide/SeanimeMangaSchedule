@@ -1,0 +1,23 @@
+{
+    "id": "manga-release-tracker",
+    "name": "Manga Release Tracker",
+    "version": "1.0.0",
+    "manifestURI": "",
+    "language": "typescript",
+    "type": "plugin",
+    "description": "Track manga release dates with a monthly schedule view",
+    "author": "You",
+    "icon": "",
+    "website": "",
+    "readme": "",
+    "notes": "",
+    "lang": "en",
+    "payloadURI": "C:/path/to/manga-release-tracker.ts",
+    "plugin": {
+        "version": "1",
+        "permissions": {
+            "scopes": ["cron"]
+        }
+    },
+    "isDevelopment": true
+}
