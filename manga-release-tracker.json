@@ -19,5 +19,4 @@
             "scopes": ["cron"]
         }
     },
-    "isDevelopment": false
 }
