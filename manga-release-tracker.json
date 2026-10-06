@@ -12,12 +12,12 @@
     "readme": "",
     "notes": "",
     "lang": "en",
-    "payloadURI": "C:/path/to/manga-release-tracker.ts",
+    "payloadURI": "https://raw.githubusercontent.com/JimmyShnide/SeanimeMangaSchedule/refs/heads/main/manga-release-tracker.ts",
     "plugin": {
         "version": "1",
         "permissions": {
             "scopes": ["cron"]
         }
     },
-    "isDevelopment": true
+    "isDevelopment": false
 }
