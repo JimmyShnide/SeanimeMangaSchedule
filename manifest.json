@@ -2,7 +2,7 @@
     "id": "manga-release-schedule",
     "name": "Manga Release Schedule",
     "version": "0.1.0",
-    "manifestURI": "https://raw.githubusercontent.com/JimmyShnide/SeanimeMangaSchedule/blob/main/manifest.json",
+    "manifestURI": "https://github.com/JimmyShnide/SeanimeMangaSchedule/blob/main/manifest.json",
     "language": "typescript",
     "type": "plugin",
     "description": "Adds upcoming manga chapter releases to Seanime's existing Schedule page.",
@@ -10,7 +10,7 @@
     "icon": "",
     "website": "",
     "lang": "en",
-    "payloadURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/seanime-manga-release-schedule/main/src/Manga-Release-Schedule.ts",
+    "payloadURI": "https://github.com/JimmyShnide/SeanimeMangaSchedule/blob/main/Manga-Release-Schedule.ts",
     "plugin": {
         "version": "1",
         "permissions": {
